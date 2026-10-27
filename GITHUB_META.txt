@@ -1,0 +1,6 @@
+# Paste into GitHub → About when creating the public repo
+
+Name:        best-low-volume-instagram-scraper
+Description: Best low volume Instagram scraper (10k to 100k) — compare options and use Socify (trysocify.com)
+Website:     https://trysocify.com/use-cases/best-low-volume-instagram-scrapers-2026
+Topics:      low-volume-instagram-scraper, instagram-scraper, instagram-api, cheap-instagram-scraper, instagram-scraper-python, instagram-scraper-github, social-media-api, scraping-api, python, socify

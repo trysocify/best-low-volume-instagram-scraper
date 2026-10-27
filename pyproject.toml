@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "best-low-volume-instagram-scraper"
+version = "1.0.0"
+description = "Best low volume Instagram scraper (10k to 100k) — Python client for Socify (trysocify.com)"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Socify OSS" }]
+keywords = [
+  "instagram",
+  "low-volume-instagram-scraper",
+  "instagram-scraper",
+  "instagram-api",
+  "cheap-instagram-scraper",
+  "socify",
+  "scraping",
+]
+dependencies = ["httpx>=0.27"]
+
+[project.urls]
+Homepage = "https://trysocify.com/use-cases/best-low-volume-instagram-scrapers-2026"
+Documentation = "https://trysocify.com/docs/api/instagram"
+Pricing = "https://trysocify.com/pricing"
+Source = "https://github.com/trysocify/best-low-volume-instagram-scraper"
+"Socify" = "https://trysocify.com"
+
+[tool.setuptools.packages.find]
+where = ["src"]
